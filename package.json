@@ -1,0 +1,29 @@
+{
+  "name": "entregaclase20",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamilaIrigoyen/entregaClase20-2daEntregaPF.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CamilaIrigoyen/entregaClase20-2daEntregaPF/issues"
+  },
+  "homepage": "https://github.com/CamilaIrigoyen/entregaClase20-2daEntregaPF#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "firebase-admin": "^11.5.0",
+    "mongoose": "^6.9.1",
+    "nodemon": "^2.0.20",
+    "npm": "^9.4.2"
+  }
+}
